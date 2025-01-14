@@ -1,0 +1,3 @@
+## Projeto Acadêmico: Blog - Nordeste
+
+Neste projeto acadêmico de blog, utilizei PHP como linguagem de programação para o desenvolvimento da aplicação. Para o banco de dados, optei pelo SQL Server, que é um sistema de gerenciamento de banco de dados eficiente e amplamente utilizado em ambientes corporativos. A comunicação entre o PHP e o SQL Server foi realizada por meio do PDO (PHP Data Objects), uma biblioteca que facilita a interação com o banco de dados de forma segura e flexível. O PDO oferece uma interface consistente, permitindo a execução de consultas e o manuseio de dados de maneira eficiente, além de ajudar na prevenção contra ataques de injeção SQL.
